@@ -14,4 +14,4 @@ Links to notes:
 
 [April 12th: Introduction to Bioconductor](https://docs.google.com/document/d/1lDxsdr9FG_E5o-yWsNc6gKrSZEm-xpQ3E5m-5BoMRAs/edit?usp=sharing)
 
-[April 26th: RNA-seq, CHIP-seq, Microarray data](https://docs.google.com/document/d/1CEVHJNtojIEh3HPTQ8BGuQHv59-3wAvFny6lO4o6LN4/edit?usp=sharing)# ComBEE_RStudyGroup_2018Spring
+[April 26th: RNA-seq, CHIP-seq, Microarray data](https://docs.google.com/document/d/1CEVHJNtojIEh3HPTQ8BGuQHv59-3wAvFny6lO4o6LN4/edit?usp=sharing)
